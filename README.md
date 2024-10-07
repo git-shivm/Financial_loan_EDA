@@ -6,41 +6,76 @@ This project involves analyzing a loan dataset to derive meaningful insights and
 **The dataset contains information about various loans, including details such as:**
 
 ApplicationDate: object
+
 Age: int64
+
 AnnualIncome: int64
+
 CreditScore: int64
+
 EmploymentStatus: object
+
 EducationLevel: object
+
 Experience: int64
+
 LoanAmount: int64
+
 LoanDuration: int64
+
 MaritalStatus: object
+
 NumberOfDependents: int64
+
 HomeOwnershipStatus: object
+
 MonthlyDebtPayments: int64
+
 CreditCardUtilizationRate: float64
+
 NumberOfOpenCreditLines: int64
+
 NumberOfCreditInquiries: int64
+
 DebtToIncomeRatio: float64
+
 BankruptcyHistory: int64
+
 LoanPurpose: object
+
 PreviousLoanDefaults: int64
+
 PaymentHistory: int64
+
 LengthOfCreditHistory: int64
+
 SavingsAccountBalance: int64
+
 CheckingAccountBalance: int64
+
 TotalAssets: int64
+
 TotalLiabilities: int64
+
 MonthlyIncome: float64
+
 UtilityBillsPaymentHistory: float64
+
 JobTenure: int64
+
 NetWorth: int64
+
 BaseInterestRate: float64
+
 InterestRate: float64
+
 MonthlyLoanPayment: float64
+
 TotalDebtToIncomeRatio: float64
+
 LoanApproved: int64
-RiskScore:
+
+RiskScore: float64
 
 
 
