@@ -3,14 +3,6 @@
 
 This project involves analyzing a loan dataset to derive meaningful insights and visualizations. The analysis explores various factors affecting loan approval, interest rates, credit scores, and more. By combining data processing techniques with statistical analysis, the goal is to uncover patterns that can help in making informed decisions regarding loan management and risk assessment.
 
-**Table of Contents**
-
-Dataset Overview
-
-
-**The dataset contains information about various loans, including details such as:**
-
-
 
 **Key Analyses and Visualizations**
 1. Data Cleaning and handling null vaalues
@@ -25,6 +17,9 @@ Dataset Overview
 
 **Technologies Used**
 Python: For data processing, analysis, and visualization.
+
 Pandas: Data manipulation and preparation.
+
 Matplotlib & Seaborn: For creating visualizations such as scatter plots, violin plots, boxplots, and heatmaps.
+
 Google Collab: For interactive data exploration and visualization.
