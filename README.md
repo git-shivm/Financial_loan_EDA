@@ -16,6 +16,7 @@ This project involves analyzing a loan dataset to derive meaningful insights and
 8. What is the distribution of borrower ages in the loan dataset, and how does it look when visualized using a histogram with a KDE (Kernel Density Estimate) overlay?
 
 **Technologies Used**
+
 Python: For data processing, analysis, and visualization.
 
 Pandas: Data manipulation and preparation.
